@@ -1,0 +1,6 @@
+{
+  "name": "Kaam Connect",
+  "description": "Direct Work, Direct Contact — Connecting industrial and daily-wage workers with contractors across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

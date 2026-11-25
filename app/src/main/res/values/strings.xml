@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kaam Connect</string>
+    <string name="app_tagline">Direct Work, Direct Contact — No Middleman</string>
+    <string name="tab_live_duty">Live Duty</string>
+    <string name="tab_workers">Workers List</string>
+    <string name="tab_contractors">Contractors List</string>
+    <string name="tab_account">My Account</string>
+    <string name="action_join_login">Join / Login</string>
+    <string name="action_share_app">Share App</string>
+    <string name="action_register_profile">+ Register Profile</string>
+    <string name="action_call_now">Call Now</string>
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="filter_my_city">My City</string>
+    <string name="filter_all_india">All India</string>
+</resources>
